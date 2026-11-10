@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hung-plugins",
+  "description": "Plugin Claude Code dùng riêng.",
+  "owner": { "name": "Nguyen Thanh Hung" },
+  "plugins": [
+    {
+      "name": "codebase-memory",
+      "description": "Bộ nhớ dài hạn về codebase: rule theo đường dẫn, kiểm docs lỗi thời.",
+      "source": "./codebase-memory",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "codebase-memory",
+  "version": "0.8.1",
+  "description": "Bộ nhớ dài hạn về codebase: kiểm docs/rule lỗi thời (đường dẫn, type, path:line, verified sha) và cảnh báo khi mở phiên.",
+  "author": { "name": "Nguyen Thanh Hung" }
+}
